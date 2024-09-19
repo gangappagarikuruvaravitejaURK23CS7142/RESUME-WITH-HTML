@@ -42,9 +42,9 @@
                         <th>Percentage</th>
                     </tr>
                     <tr>
-                        <td>COMSATS</td>
-                        <td>2022</td>
-                        <td>90%</td>
+                        <td>Karunya University</td>
+                        <td>2027</td>
+                        <td>80%</td>
                     </tr>
                     <tr>
                         <td>FAST</td>
