@@ -14,7 +14,7 @@
         <tr>
             <th>
                 <h1>My Name</h1>
-                <img src="Images/Screenshot (650).png" alt="Photo"><br> Email:abc@gmail.com <br> Phone No: 0321689031
+                <img src="Images/Screenshot (650).png" alt="Photo"><br> Email:gkraviteja4279@gamil.com <br> Phone No: 6305301677
             </th>
         </tr>
         <td>
@@ -23,15 +23,16 @@
                     Skills
                 </h1>
                 <ul>
-                    <li>Programing Languages: Python, C++, Java</li>
-                    <li>Web development: Html, CSS, PHP</li>
-                    <li>Graphic designing: Adobe Photoshope, Canva</li>
+                    <li>Programing Languages: Python, Java</li>
+                    <li>Web development: Html, CSS </li>
+                    <li>Graphic designing: Adobe Photoshope, Canva,capcut </li>
                 </ul>
                 <h1>Languages</h1>
                 <ul>
                     <li>English</li>
-                    <li>Urdu</li>
-                    <li>Arabic</li>
+                    <li>kanadda</li>
+                    <li>Telugu</li>
+                    <li>Hindi</li>
                 </ul>
                 <h1>Education</h1>
                 <table border="1" align="center">
